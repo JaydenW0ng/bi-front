@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <div>
     <el-menu
         :default-active="activeIndex2"
@@ -8,8 +8,8 @@
         background-color="#545c64"
         text-color="#fff"
         active-text-color="#ffd04b">
-           <el-image :src="require('@/assets/planet.png')"></el-image>
-      <el-menu-item index="1">仪表盘</el-menu-item>
+      <!--      <el-image :src="require('@/assets/planet.png')"></el-image>-->
+      <el-menu-item index="1">仪表盘aaa</el-menu-item>
       <el-submenu index="2">
         <template slot="title">可视化查询</template>
         <el-menu-item index="2-1">选项1</el-menu-item>
@@ -47,4 +47,4 @@ export default {
 
 <style>
 
-</style> -->
+</style>

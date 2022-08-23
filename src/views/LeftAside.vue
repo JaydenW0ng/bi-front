@@ -1,7 +1,7 @@
-<template>
+<!-- <template>
   <div>
-<!--    <el-button  v-show="isCollapse" style="margin:auto 0px auto 0px;border: 0px; margin: 10px;}" size="small" icon="el-icon-s-unfold" @click="toggleLeftDrawer"></el-button>-->
-<!--    <el-button  v-show = "!isCollapse" style="margin:auto 0px auto 0px;border: 0px; margin: 10px;}" size="small" icon="el-icon-s-fold" @click="toggleLeftDrawer"></el-button>-->
+   <el-button  v-show="isCollapse" style="margin:auto 0px auto 0px;border: 0px; margin: 10px;}" size="small" icon="el-icon-s-unfold" @click="toggleLeftDrawer"></el-button>
+   <el-button  v-show = "!isCollapse" style="margin:auto 0px auto 0px;border: 0px; margin: 10px;}" size="small" icon="el-icon-s-fold" @click="toggleLeftDrawer"></el-button>
 
     <el-container class="grid-content bg-purple-light">
 
@@ -48,4 +48,4 @@ export default {
 <style>
 
 
-</style>
+</style> -->

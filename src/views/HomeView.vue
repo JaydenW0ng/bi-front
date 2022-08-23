@@ -1,6 +1,6 @@
-<template>
-    <div>
-      <el-container>
+<!-- <template> -->
+    <!-- <div> -->
+      <!-- <el-container> -->
 <!--        <el-header style="border-bottom: thin solid ;  border-image: linear-gradient(to bottom, #7f7f7f, #cccccc) 1;">-->
 <!--          <el-row :gutter="10" type="flex" align="middle">-->
 <!--&lt;!&ndash;            <el-image :src="require('@/assets/planet.png')"></el-image>&ndash;&gt;-->
@@ -9,12 +9,12 @@
 <!--        <el-container>-->
 <!--          <el-main>Main</el-main>-->
 <!--        </el-container>-->
-      </el-container>  
-    </div>
+      <!-- </el-container>   -->
+    <!-- </div> -->
       
-</template>
+<!-- </template> -->
 
-
+<!-- 
 <script>
 export default {
     name: 'HomeView',
@@ -69,4 +69,4 @@ export default {
     .el-container:nth-child(7) .el-aside {
       line-height: 320px;
     }
-  </style>
+  </style> -->
